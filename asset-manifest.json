@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TheDevSaxGuy/clima/static/css/main.6dd414e7.chunk.css",
+    "main.js": "/TheDevSaxGuy/clima/static/js/main.915e8b98.chunk.js",
+    "main.js.map": "/TheDevSaxGuy/clima/static/js/main.915e8b98.chunk.js.map",
+    "runtime-main.js": "/TheDevSaxGuy/clima/static/js/runtime-main.0d814e13.js",
+    "runtime-main.js.map": "/TheDevSaxGuy/clima/static/js/runtime-main.0d814e13.js.map",
+    "static/js/2.269f46e4.chunk.js": "/TheDevSaxGuy/clima/static/js/2.269f46e4.chunk.js",
+    "static/js/2.269f46e4.chunk.js.map": "/TheDevSaxGuy/clima/static/js/2.269f46e4.chunk.js.map",
+    "static/js/3.ab63d7e4.chunk.js": "/TheDevSaxGuy/clima/static/js/3.ab63d7e4.chunk.js",
+    "static/js/3.ab63d7e4.chunk.js.map": "/TheDevSaxGuy/clima/static/js/3.ab63d7e4.chunk.js.map",
+    "index.html": "/TheDevSaxGuy/clima/index.html",
+    "static/css/main.6dd414e7.chunk.css.map": "/TheDevSaxGuy/clima/static/css/main.6dd414e7.chunk.css.map",
+    "static/js/2.269f46e4.chunk.js.LICENSE.txt": "/TheDevSaxGuy/clima/static/js/2.269f46e4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TheDevSaxGuy/clima/static/media/sunny.5dc50336.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d814e13.js",
+    "static/js/2.269f46e4.chunk.js",
+    "static/css/main.6dd414e7.chunk.css",
+    "static/js/main.915e8b98.chunk.js"
+  ]
+}
